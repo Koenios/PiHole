@@ -1,3 +1,8 @@
+#           Talos Intelligence IP Blacklist           #
+#         Blocks IPs Related to Cyber Threats         #
+#     Provides Networking Protection and Security     #
+#        All credit goes to Cisco Systems, Inc.       #
+
 40.69.62.87
 23.129.64.101
 37.187.129.166
